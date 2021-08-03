@@ -1,2 +1,2 @@
 # App Screen Shot
-![App Screen]("./screen.png")
+![App Screen](./screen.png)
